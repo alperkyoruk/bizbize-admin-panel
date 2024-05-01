@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+}
+
+.right-container {
+  flex: 1;
+  padding-left: 20px; /* Adjust as needed */
+  margin-left: 220px;
+}
+
+.content {
+  margin-top: 20px; /* Adjust as needed */
+}
+
+.content {
+  flex: 1;
+  padding: 20px;
+}
+
+.content h1 {
+  margin-bottom: 10px;
+}
+
+.content p {
+  margin-bottom: 20px;
+}

@@ -1,0 +1,35 @@
+/* EventList.css */
+
+.event-list-container {
+  padding: 20px;
+}
+
+.right-side-container {
+  padding-left: 20px;
+  margin-left: 220px;
+}
+
+.event-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.event-table th,
+.event-table td {
+  border: 1px solid #ccc;
+  padding: 8px;
+  text-align: left;
+}
+
+.event-table th {
+  background-color: #f2f2f2;
+}
+
+.view-details-link {
+  color: #007bff;
+  text-decoration: none;
+}
+
+.view-details-link:hover {
+  text-decoration: underline;
+}
